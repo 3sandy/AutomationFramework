@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-09T11:48:01 IST" name="Default suite" finished-at="2022-09-09T11:48:01 IST" duration-ms="195">
+    <groups>
+    </groups>
+    <test started-at="2022-09-09T11:48:01 IST" name="Default test" finished-at="2022-09-09T11:48:01 IST" duration-ms="195">
+      <class name="sampleTests.OrganisationTest">
+        <test-method signature="createorganisation()[pri:0, instance:sampleTests.OrganisationTest@4b5a5ed1]" started-at="2022-09-09T11:48:01 IST" name="createorganisation" finished-at="2022-09-09T11:48:01 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createorganisation -->
+        <test-method signature="deleteorganisation()[pri:0, instance:sampleTests.OrganisationTest@4b5a5ed1]" started-at="2022-09-09T11:48:01 IST" name="deleteorganisation" finished-at="2022-09-09T11:48:01 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteorganisation -->
+        <test-method signature="modifyOrganisation()[pri:0, instance:sampleTests.OrganisationTest@4b5a5ed1]" started-at="2022-09-09T11:48:01 IST" name="modifyOrganisation" finished-at="2022-09-09T11:48:01 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyOrganisation -->
+      </class> <!-- sampleTests.OrganisationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
